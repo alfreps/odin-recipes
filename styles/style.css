@@ -62,3 +62,13 @@ li {
     margin: 0 42% 0 42%;
     min-width: 25em;
 }
+
+.ingredients li {
+    min-width: 40em;
+    margin: 0 40%;
+}
+
+.steps li {
+    min-width: 50em;
+    margin: auto 30%;
+}
