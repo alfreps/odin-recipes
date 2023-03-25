@@ -3,8 +3,40 @@
     font-size: 16px;
     margin: 0 auto;
     padding: 0;
+    max-width: 1400px;
 }
 
 body {
     background-color: lightyellow;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    padding: 2em 0;
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(22, 22, 22);
+}
+
+a:hover {
+    color:darkslategray;
+    font-size: 18px;
+    background-color: aliceblue;
+}
+
+ol, ul {
+    margin: 0 42% 0 42%;
+    min-width: 20em;
+}
+
+li {
+    padding: .3em 0;
+    height: 24px;
 }
