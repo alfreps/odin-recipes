@@ -57,3 +57,8 @@ li {
     padding: .3em 0;
     min-height: 24px;
 }
+
+.link {
+    margin: 0 42% 0 42%;
+    min-width: 25em;
+}
