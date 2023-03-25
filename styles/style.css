@@ -65,10 +65,10 @@ li {
 
 .ingredients li {
     min-width: 40em;
-    margin: 0 40%;
+    margin: 0 45%;
 }
 
 .steps li {
     min-width: 50em;
-    margin: auto 30%;
+    margin: auto 28%;
 }
