@@ -20,6 +20,14 @@ h1 {
     font-size: 24px;
 }
 
+h2 {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
 a {
     text-decoration: none;
     color: rgb(22, 22, 22);
@@ -31,12 +39,21 @@ a:hover {
     background-color: aliceblue;
 }
 
+img {
+    margin: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
 ol, ul {
-    margin: 0 42% 0 42%;
     min-width: 20em;
 }
 
 li {
+    margin: auto;
     padding: .3em 0;
-    height: 24px;
+    min-height: 24px;
 }
