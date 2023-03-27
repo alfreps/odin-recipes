@@ -50,6 +50,7 @@ p {
 
 ol, ul {
     min-width: 20em;
+    padding-bottom: 3em;
 }
 
 li {
